@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://tiktok.com/@girls</id>
+  <title>girls TikTok</title>
+  <updated>2023-11-13T00:31:28+00:00</updated>
+  <author>
+    <name>Conor ONeill</name>
+    <email>conor@conoroneill.com</email>
+  </author>
+  <link href="http://tiktok.com" rel="alternate"/>
+  <link href="https://majicapps.github.io/tiktok-rss-flat/rss/girls.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <logo>https://majicapps.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
+  <subtitle>OK Boomer, all the latest TikToks from girls</subtitle>
+  <entry>
+    <id>https://tiktok.com/@girls/video/7300608890910084357</id>
+    <title>Easy peasy 😂😂 #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </title>
+    <updated>2023-11-12T16:11:10+00:00</updated>
+    <content>Easy peasy 😂😂 #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </content>
+    <link href="https://tiktok.com/@girls/video/7300608890910084357" rel="alternate"/>
+    <published>2023-11-12T16:11:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@girls/video/7300631929617927430</id>
+    <title>“I dont care that much”..🥹😩 #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </title>
+    <updated>2023-11-12T17:40:33+00:00</updated>
+    <content>“I dont care that much”..🥹😩 #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </content>
+    <link href="https://tiktok.com/@girls/video/7300631929617927430" rel="alternate"/>
+    <published>2023-11-12T17:40:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@girls/video/7300665741907430661</id>
+    <title>Who else does this?! Tag your big sis! #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #sisters #sistersbelike </title>
+    <updated>2023-11-12T19:51:46+00:00</updated>
+    <content>Who else does this?! Tag your big sis! #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #sisters #sistersbelike </content>
+    <link href="https://tiktok.com/@girls/video/7300665741907430661" rel="alternate"/>
+    <published>2023-11-12T19:51:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@girls/video/7300710611963350277</id>
+    <title>The back is none of my business 😂 #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </title>
+    <updated>2023-11-12T22:45:55+00:00</updated>
+    <content>The back is none of my business 😂 #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </content>
+    <link href="https://tiktok.com/@girls/video/7300710611963350277" rel="alternate"/>
+    <published>2023-11-12T22:45:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@girls/video/7300737807864139013</id>
+    <title>Currently doing this 😂😂 #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </title>
+    <updated>2023-11-13T00:31:28+00:00</updated>
+    <content>Currently doing this 😂😂 #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </content>
+    <link href="https://tiktok.com/@girls/video/7300737807864139013" rel="alternate"/>
+    <published>2023-11-13T00:31:28+00:00</published>
+  </entry>
+</feed>
