@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@girls</id>
   <title>girls TikTok</title>
-  <updated>2023-11-18T03:18:11+00:00</updated>
+  <updated>2023-11-18T16:18:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://majicapps.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from girls</subtitle>
-  <entry>
-    <id>https://tiktok.com/@girls/video/7302514280526580998</id>
-    <title>Like CLOCKWORK 😂😂😂 anyone else relate?! #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </title>
-    <updated>2023-11-17T19:25:03+00:00</updated>
-    <content>Like CLOCKWORK 😂😂😂 anyone else relate?! #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </content>
-    <link href="https://tiktok.com/@girls/video/7302514280526580998" rel="alternate"/>
-    <published>2023-11-17T19:25:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@girls/video/7302553811716181254</id>
     <title>The beat is just so lit 😂😂🥳 anyone else?! #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </title>
@@ -51,5 +43,13 @@
     <content>Tag this friend! 😂👯👯 #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #bff #bestie </content>
     <link href="https://tiktok.com/@girls/video/7302636203738762501" rel="alternate"/>
     <published>2023-11-18T03:18:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@girls/video/7302837177644223749</id>
+    <title>Do we all have the same mom?! 😂😂 #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </title>
+    <updated>2023-11-18T16:18:03+00:00</updated>
+    <content>Do we all have the same mom?! 😂😂 #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </content>
+    <link href="https://tiktok.com/@girls/video/7302837177644223749" rel="alternate"/>
+    <published>2023-11-18T16:18:03+00:00</published>
   </entry>
 </feed>
