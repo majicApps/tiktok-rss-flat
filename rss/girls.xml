@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@girls</id>
   <title>girls TikTok</title>
-  <updated>2023-11-20T01:26:22+00:00</updated>
+  <updated>2023-11-20T16:05:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://majicapps.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from girls</subtitle>
-  <entry>
-    <id>https://tiktok.com/@girls/video/7303204448455773445</id>
-    <title>HEYYYY wait for me!! Who else relates?! #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #littlegs #short </title>
-    <updated>2023-11-19T16:03:15+00:00</updated>
-    <content>HEYYYY wait for me!! Who else relates?! #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #littlegs #short </content>
-    <link href="https://tiktok.com/@girls/video/7303204448455773445" rel="alternate"/>
-    <published>2023-11-19T16:03:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@girls/video/7303233377845513478</id>
-    <title>GIRL MATH 💯😂😂 #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #girlmath </title>
-    <updated>2023-11-19T17:55:32+00:00</updated>
-    <content>GIRL MATH 💯😂😂 #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #girlmath </content>
-    <link href="https://tiktok.com/@girls/video/7303233377845513478" rel="alternate"/>
-    <published>2023-11-19T17:55:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@girls/video/7303266908034338053</id>
     <title>FACTS! 😂😂 Tag your bestie! #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </title>
@@ -51,5 +35,21 @@
     <content>Tag your bestie! 😂🫶🏻 #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #bff #bestie #bestfriend </content>
     <link href="https://tiktok.com/@girls/video/7303349555343445254" rel="alternate"/>
     <published>2023-11-20T01:26:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@girls/video/7303560939989781765</id>
+    <title>Are you team Alfie or team Gabriel? 😍 Represent your team with @Netflix Netflix Shop #netflixshop #netflixshoppartner @Sammie j </title>
+    <updated>2023-11-20T15:06:38+00:00</updated>
+    <content>Are you team Alfie or team Gabriel? 😍 Represent your team with @Netflix Netflix Shop #netflixshop #netflixshoppartner @Sammie j </content>
+    <link href="https://tiktok.com/@girls/video/7303560939989781765" rel="alternate"/>
+    <published>2023-11-20T15:06:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@girls/video/7303576026930531590</id>
+    <title>Tag your besties! 👯👯❤️ @girls/@females #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #bff #bestie #bestfriend </title>
+    <updated>2023-11-20T16:05:11+00:00</updated>
+    <content>Tag your besties! 👯👯❤️ @girls/@females #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #bff #bestie #bestfriend </content>
+    <link href="https://tiktok.com/@girls/video/7303576026930531590" rel="alternate"/>
+    <published>2023-11-20T16:05:11+00:00</published>
   </entry>
 </feed>
