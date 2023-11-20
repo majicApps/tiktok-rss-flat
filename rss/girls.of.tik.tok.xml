@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@girls.of.tik.tok</id>
   <title>girls.of.tik.tok TikTok</title>
-  <updated>2023-01-26T15:27:10+00:00</updated>
+  <updated>2023-02-13T14:18:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://majicapps.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from girls.of.tik.tok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@girls.of.tik.tok/video/7189618254023871787</id>
-    <title>🔥🔥 #girlsoftiktok #hot </title>
-    <updated>2023-01-17T13:51:28+00:00</updated>
-    <content>🔥🔥 #girlsoftiktok #hot </content>
-    <link href="https://tiktok.com/@girls.of.tik.tok/video/7189618254023871787" rel="alternate"/>
-    <published>2023-01-17T13:51:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@girls.of.tik.tok/video/7190383538812783915</id>
     <title>Both 🔥🔥 #girlsoftiktok #hot </title>
@@ -51,5 +43,13 @@
     <content>mommy? sorry #mommy #sorry </content>
     <link href="https://tiktok.com/@girls.of.tik.tok/video/7192982769192946987" rel="alternate"/>
     <published>2023-01-26T15:27:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@girls.of.tik.tok/video/7199644510425533739</id>
+    <title>😍 #tattedgirls #fyp </title>
+    <updated>2023-02-13T14:18:17+00:00</updated>
+    <content>😍 #tattedgirls #fyp </content>
+    <link href="https://tiktok.com/@girls.of.tik.tok/video/7199644510425533739" rel="alternate"/>
+    <published>2023-02-13T14:18:17+00:00</published>
   </entry>
 </feed>
