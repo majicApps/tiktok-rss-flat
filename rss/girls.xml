@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@girls</id>
   <title>girls TikTok</title>
-  <updated>2023-11-21T22:19:23+00:00</updated>
+  <updated>2023-11-22T00:00:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://majicapps.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from girls</subtitle>
-  <entry>
-    <id>https://tiktok.com/@girls/video/7303743374366919942</id>
-    <title>Felt this on a deep level 😩😩 anyone else? #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </title>
-    <updated>2023-11-21T02:54:34+00:00</updated>
-    <content>Felt this on a deep level 😩😩 anyone else? #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </content>
-    <link href="https://tiktok.com/@girls/video/7303743374366919942" rel="alternate"/>
-    <published>2023-11-21T02:54:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@girls/video/7303957702441487622</id>
     <title>Are you even best friends if youre not like this?! 😂😂 tag your bestie! #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecon</title>
@@ -51,5 +43,13 @@
     <content>We love a ✨VIBE✨ when getting ready - who else agrees?! #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #gettingready #vibe </content>
     <link href="https://tiktok.com/@girls/video/7304043537937468677" rel="alternate"/>
     <published>2023-11-21T22:19:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@girls/video/7304069580291460357</id>
+    <title>We all have that ONE friend - who else agrees? #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </title>
+    <updated>2023-11-22T00:00:29+00:00</updated>
+    <content>We all have that ONE friend - who else agrees? #fyp #foryou #foryoupage #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </content>
+    <link href="https://tiktok.com/@girls/video/7304069580291460357" rel="alternate"/>
+    <published>2023-11-22T00:00:29+00:00</published>
   </entry>
 </feed>
