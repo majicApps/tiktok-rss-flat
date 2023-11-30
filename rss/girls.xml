@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@girls</id>
   <title>girls TikTok</title>
-  <updated>2023-11-30T19:29:05+00:00</updated>
+  <updated>2023-11-30T20:28:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://majicapps.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from girls</subtitle>
-  <entry>
-    <id>https://tiktok.com/@girls/video/7307024569053891846</id>
-    <title>Always gotta double check 😂😂👀 #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </title>
-    <updated>2023-11-29T23:07:18+00:00</updated>
-    <content>Always gotta double check 😂😂👀 #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </content>
-    <link href="https://tiktok.com/@girls/video/7307024569053891846" rel="alternate"/>
-    <published>2023-11-29T23:07:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@girls/video/7307044253862022406</id>
     <title>Tag this friend!! ❤️❤️👯 #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </title>
@@ -51,5 +43,13 @@
     <content>It REALLY is that bad - who else gets bad periods?! #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #period #periodcramps </content>
     <link href="https://tiktok.com/@girls/video/7307339421668347142" rel="alternate"/>
     <published>2023-11-30T19:29:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@girls/video/7307354685336292613</id>
+    <title>I blame her 😂😂 #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #shopping #shoppingproblems #girlswhoshop </title>
+    <updated>2023-11-30T20:28:18+00:00</updated>
+    <content>I blame her 😂😂 #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #shopping #shoppingproblems #girlswhoshop </content>
+    <link href="https://tiktok.com/@girls/video/7307354685336292613" rel="alternate"/>
+    <published>2023-11-30T20:28:18+00:00</published>
   </entry>
 </feed>
