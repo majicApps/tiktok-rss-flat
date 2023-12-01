@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@girls</id>
   <title>girls TikTok</title>
-  <updated>2023-12-01T01:55:34+00:00</updated>
+  <updated>2023-12-01T15:02:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://majicapps.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from girls</subtitle>
-  <entry>
-    <id>https://tiktok.com/@girls/video/7307286414226476294</id>
-    <title>OOOPS 😂😂 #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </title>
-    <updated>2023-11-30T16:03:22+00:00</updated>
-    <content>OOOPS 😂😂 #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </content>
-    <link href="https://tiktok.com/@girls/video/7307286414226476294" rel="alternate"/>
-    <published>2023-11-30T16:03:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@girls/video/7307339421668347142</id>
     <title>It REALLY is that bad - who else gets bad periods?! #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #period #periodcramps </title>
@@ -51,5 +43,13 @@
     <content>Who else is a high maintence sleep girly?! 🙋🏻‍♀️🙋🏻‍♀️ #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #nighttimeroutine #sleep </content>
     <link href="https://tiktok.com/@girls/video/7307439019158244613" rel="alternate"/>
     <published>2023-12-01T01:55:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@girls/video/7307641705392557318</id>
+    <title>You can find even more Stranger Things collectibles and all your other show favorites on @Netflix Netflix Shop #NetflixShop #NetflixShopPartner @Jennifer </title>
+    <updated>2023-12-01T15:02:05+00:00</updated>
+    <content>You can find even more Stranger Things collectibles and all your other show favorites on @Netflix Netflix Shop #NetflixShop #NetflixShopPartner @Jennifer </content>
+    <link href="https://tiktok.com/@girls/video/7307641705392557318" rel="alternate"/>
+    <published>2023-12-01T15:02:05+00:00</published>
   </entry>
 </feed>
