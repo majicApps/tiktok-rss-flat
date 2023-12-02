@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@girls.of.tik.tok</id>
   <title>girls.of.tik.tok TikTok</title>
-  <updated>2023-02-13T14:18:17+00:00</updated>
+  <updated>2023-12-02T17:13:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://majicapps.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from girls.of.tik.tok</subtitle>
-  <entry>
-    <id>https://tiktok.com/@girls.of.tik.tok/video/7190383538812783915</id>
-    <title>Both 🔥🔥 #girlsoftiktok #hot </title>
-    <updated>2023-01-19T15:20:40+00:00</updated>
-    <content>Both 🔥🔥 #girlsoftiktok #hot </content>
-    <link href="https://tiktok.com/@girls.of.tik.tok/video/7190383538812783915" rel="alternate"/>
-    <published>2023-01-19T15:20:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@girls.of.tik.tok/video/7190731519902715182</id>
     <title>Like if you love golf #caddie #baddie #golf #babe </title>
@@ -51,5 +43,13 @@
     <content>😍 #tattedgirls #fyp </content>
     <link href="https://tiktok.com/@girls.of.tik.tok/video/7199644510425533739" rel="alternate"/>
     <published>2023-02-13T14:18:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@girls.of.tik.tok/video/7308046590487432494</id>
+    <title>😴</title>
+    <updated>2023-12-02T17:13:27+00:00</updated>
+    <content>😴</content>
+    <link href="https://tiktok.com/@girls.of.tik.tok/video/7308046590487432494" rel="alternate"/>
+    <published>2023-12-02T17:13:27+00:00</published>
   </entry>
 </feed>
