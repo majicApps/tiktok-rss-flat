@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@girls</id>
   <title>girls TikTok</title>
-  <updated>2023-12-02T21:09:01+00:00</updated>
+  <updated>2023-12-03T00:14:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://majicapps.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from girls</subtitle>
-  <entry>
-    <id>https://tiktok.com/@girls/video/7307796460270013702</id>
-    <title>TAG YOUR BESTIE! ❤️❤️ #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #bff #bestie #bestfriend </title>
-    <updated>2023-12-02T01:02:38+00:00</updated>
-    <content>TAG YOUR BESTIE! ❤️❤️ #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #bff #bestie #bestfriend </content>
-    <link href="https://tiktok.com/@girls/video/7307796460270013702" rel="alternate"/>
-    <published>2023-12-02T01:02:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@girls/video/7308020383347756294</id>
     <title>If you didn’t know, you know now. @Netflix has their own Netflix Shop where you can find all of your favorite show’s apparel and collectibles! #NetflixShop #NetflixShopPartner @Misa 🌸 </title>
@@ -51,5 +43,13 @@
     <content>Something about a fresh set 💅💅 #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #nails #freshset #nailtok </content>
     <link href="https://tiktok.com/@girls/video/7308107348906626309" rel="alternate"/>
     <published>2023-12-02T21:09:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@girls/video/7308155153834691846</id>
+    <title>Are you THIS friend?! #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </title>
+    <updated>2023-12-03T00:14:33+00:00</updated>
+    <content>Are you THIS friend?! #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </content>
+    <link href="https://tiktok.com/@girls/video/7308155153834691846" rel="alternate"/>
+    <published>2023-12-03T00:14:33+00:00</published>
   </entry>
 </feed>
