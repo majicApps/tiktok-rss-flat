@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@girls</id>
   <title>girls TikTok</title>
-  <updated>2023-12-03T17:47:25+00:00</updated>
+  <updated>2023-12-03T19:58:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://majicapps.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from girls</subtitle>
-  <entry>
-    <id>https://tiktok.com/@girls/video/7308192236800445701</id>
-    <title>Definitely matching in that dept! 😂😂 anyone else?! Tag your bestie!</title>
-    <updated>2023-12-03T02:38:27+00:00</updated>
-    <content>Definitely matching in that dept! 😂😂 anyone else?! Tag your bestie!</content>
-    <link href="https://tiktok.com/@girls/video/7308192236800445701" rel="alternate"/>
-    <published>2023-12-03T02:38:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@girls/video/7308212588008033541</id>
     <title>These are my clothes now 😂😂 who else does this?! #fyp #foryou #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </title>
@@ -51,5 +43,13 @@
     <content>When you lose your door privileges 😂😂 who else has been there? #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #fyp #foryou </content>
     <link href="https://tiktok.com/@girls/video/7308426483091950854" rel="alternate"/>
     <published>2023-12-03T17:47:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@girls/video/7308460248803593477</id>
+    <title>At least I’ll be sad but pretty 😂😂😂 who else does this?! #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </title>
+    <updated>2023-12-03T19:58:28+00:00</updated>
+    <content>At least I’ll be sad but pretty 😂😂😂 who else does this?! #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </content>
+    <link href="https://tiktok.com/@girls/video/7308460248803593477" rel="alternate"/>
+    <published>2023-12-03T19:58:28+00:00</published>
   </entry>
 </feed>
