@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@girls</id>
   <title>girls TikTok</title>
-  <updated>2023-12-03T00:14:33+00:00</updated>
+  <updated>2023-12-03T02:38:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://majicapps.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from girls</subtitle>
-  <entry>
-    <id>https://tiktok.com/@girls/video/7308020383347756294</id>
-    <title>If you didn’t know, you know now. @Netflix has their own Netflix Shop where you can find all of your favorite show’s apparel and collectibles! #NetflixShop #NetflixShopPartner @Misa 🌸 </title>
-    <updated>2023-12-02T15:31:33+00:00</updated>
-    <content>If you didn’t know, you know now. @Netflix has their own Netflix Shop where you can find all of your favorite show’s apparel and collectibles! #NetflixShop #NetflixShopPartner @Misa 🌸 </content>
-    <link href="https://tiktok.com/@girls/video/7308020383347756294" rel="alternate"/>
-    <published>2023-12-02T15:31:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@girls/video/7308054762014903557</id>
     <title>Well, don’t we all just feel called out? 😂😂 #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #spotifywrapped </title>
@@ -51,5 +43,13 @@
     <content>Are you THIS friend?! #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </content>
     <link href="https://tiktok.com/@girls/video/7308155153834691846" rel="alternate"/>
     <published>2023-12-03T00:14:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@girls/video/7308192236800445701</id>
+    <title>Definitely matching in that dept! 😂😂 anyone else?! Tag your bestie!</title>
+    <updated>2023-12-03T02:38:27+00:00</updated>
+    <content>Definitely matching in that dept! 😂😂 anyone else?! Tag your bestie!</content>
+    <link href="https://tiktok.com/@girls/video/7308192236800445701" rel="alternate"/>
+    <published>2023-12-03T02:38:27+00:00</published>
   </entry>
 </feed>
