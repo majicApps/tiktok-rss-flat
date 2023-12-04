@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@girls</id>
   <title>girls TikTok</title>
-  <updated>2023-12-03T22:38:50+00:00</updated>
+  <updated>2023-12-04T02:12:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://majicapps.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from girls</subtitle>
-  <entry>
-    <id>https://tiktok.com/@girls/video/7308220004690939142</id>
-    <title>Tag your bestie! #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #bff #bestie #bestfriend </title>
-    <updated>2023-12-03T04:26:11+00:00</updated>
-    <content>Tag your bestie! #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #bff #bestie #bestfriend </content>
-    <link href="https://tiktok.com/@girls/video/7308220004690939142" rel="alternate"/>
-    <published>2023-12-03T04:26:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@girls/video/7308407856724708613</id>
     <title>Thanks to Google Registry for including us in their .meme launch ✨ #googleregistrypartner </title>
@@ -51,5 +43,13 @@
     <content>The struggle is REAL 😂😂 #style #fashion #styleinspo #fashioninspo #styletips #xyzbca #viral #viralvideo #relatable #fashionhacks #fashiontips #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #winterproblems #winter </content>
     <link href="https://tiktok.com/@girls/video/7308501575050382598" rel="alternate"/>
     <published>2023-12-03T22:38:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@girls/video/7308556518763351301</id>
+    <title>Full time job 😂 tag this friend! #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #foryou #fyp #bff #bestfriend </title>
+    <updated>2023-12-04T02:12:02+00:00</updated>
+    <content>Full time job 😂 tag this friend! #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #foryou #fyp #bff #bestfriend </content>
+    <link href="https://tiktok.com/@girls/video/7308556518763351301" rel="alternate"/>
+    <published>2023-12-04T02:12:02+00:00</published>
   </entry>
 </feed>
