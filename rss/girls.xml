@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@girls</id>
   <title>girls TikTok</title>
-  <updated>2023-12-04T19:57:30+00:00</updated>
+  <updated>2023-12-04T22:47:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://majicapps.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from girls</subtitle>
-  <entry>
-    <id>https://tiktok.com/@girls/video/7308565914885180678</id>
-    <title>Love me a little snacky snack 😂 #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </title>
-    <updated>2023-12-04T02:48:31+00:00</updated>
-    <content>Love me a little snacky snack 😂 #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </content>
-    <link href="https://tiktok.com/@girls/video/7308565914885180678" rel="alternate"/>
-    <published>2023-12-04T02:48:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@girls/video/7308586090527509766</id>
-    <title>Delulu is the trululu 😂😂 tag this friend! #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #bff #bestie #delulu </title>
-    <updated>2023-12-04T04:06:48+00:00</updated>
-    <content>Delulu is the trululu 😂😂 tag this friend! #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #bff #bestie #delulu </content>
-    <link href="https://tiktok.com/@girls/video/7308586090527509766" rel="alternate"/>
-    <published>2023-12-04T04:06:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@girls/video/7308773092505996549</id>
     <title>It’s hard out here being a girl 😩 #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </title>
@@ -51,5 +35,21 @@
     <content>Which zodiac sign is your bestie? Tag em! ✨</content>
     <link href="https://tiktok.com/@girls/video/7308831086862241030" rel="alternate"/>
     <published>2023-12-04T19:57:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@girls/video/7308874455848144133</id>
+    <title>Look good, feel good, hopefully I don’t fail my exam 😂😂😂 #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </title>
+    <updated>2023-12-04T22:45:49+00:00</updated>
+    <content>Look good, feel good, hopefully I don’t fail my exam 😂😂😂 #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </content>
+    <link href="https://tiktok.com/@girls/video/7308874455848144133" rel="alternate"/>
+    <published>2023-12-04T22:45:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@girls/video/7308874953468824838</id>
+    <title>Im low key 97 years old - anyone else?! #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </title>
+    <updated>2023-12-04T22:47:46+00:00</updated>
+    <content>Im low key 97 years old - anyone else?! #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </content>
+    <link href="https://tiktok.com/@girls/video/7308874953468824838" rel="alternate"/>
+    <published>2023-12-04T22:47:46+00:00</published>
   </entry>
 </feed>
