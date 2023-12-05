@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@girls</id>
   <title>girls TikTok</title>
-  <updated>2023-12-04T22:47:46+00:00</updated>
+  <updated>2023-12-05T02:13:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://majicapps.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from girls</subtitle>
-  <entry>
-    <id>https://tiktok.com/@girls/video/7308773092505996549</id>
-    <title>It’s hard out here being a girl 😩 #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </title>
-    <updated>2023-12-04T16:12:27+00:00</updated>
-    <content>It’s hard out here being a girl 😩 #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </content>
-    <link href="https://tiktok.com/@girls/video/7308773092505996549" rel="alternate"/>
-    <published>2023-12-04T16:12:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@girls/video/7308798717316893957</id>
     <title>Dressed exactly like this and I LOVE it 😂😂 anyone else?! #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #ootd #fitcheck </title>
@@ -51,5 +43,13 @@
     <content>Im low key 97 years old - anyone else?! #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </content>
     <link href="https://tiktok.com/@girls/video/7308874953468824838" rel="alternate"/>
     <published>2023-12-04T22:47:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@girls/video/7308928059204242693</id>
+    <title>Time to ✨REHASH✨ 😂😂😂 #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #bff #bestie #gossip </title>
+    <updated>2023-12-05T02:13:47+00:00</updated>
+    <content>Time to ✨REHASH✨ 😂😂😂 #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #bff #bestie #gossip </content>
+    <link href="https://tiktok.com/@girls/video/7308928059204242693" rel="alternate"/>
+    <published>2023-12-05T02:13:47+00:00</published>
   </entry>
 </feed>
