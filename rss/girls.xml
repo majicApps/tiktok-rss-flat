@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@girls</id>
   <title>girls TikTok</title>
-  <updated>2023-12-05T02:13:47+00:00</updated>
+  <updated>2023-12-05T16:35:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://majicapps.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from girls</subtitle>
-  <entry>
-    <id>https://tiktok.com/@girls/video/7308798717316893957</id>
-    <title>Dressed exactly like this and I LOVE it 😂😂 anyone else?! #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #ootd #fitcheck </title>
-    <updated>2023-12-04T17:51:53+00:00</updated>
-    <content>Dressed exactly like this and I LOVE it 😂😂 anyone else?! #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #ootd #fitcheck </content>
-    <link href="https://tiktok.com/@girls/video/7308798717316893957" rel="alternate"/>
-    <published>2023-12-04T17:51:53+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@girls/video/7308831086862241030</id>
     <title>Which zodiac sign is your bestie? Tag em! ✨</title>
@@ -51,5 +43,13 @@
     <content>Time to ✨REHASH✨ 😂😂😂 #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #bff #bestie #gossip </content>
     <link href="https://tiktok.com/@girls/video/7308928059204242693" rel="alternate"/>
     <published>2023-12-05T02:13:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@girls/video/7309150044182105350</id>
+    <title>Low key LOVE IT 😂😂 #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </title>
+    <updated>2023-12-05T16:35:13+00:00</updated>
+    <content>Low key LOVE IT 😂😂 #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </content>
+    <link href="https://tiktok.com/@girls/video/7309150044182105350" rel="alternate"/>
+    <published>2023-12-05T16:35:13+00:00</published>
   </entry>
 </feed>
