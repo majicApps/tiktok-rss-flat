@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@girls</id>
   <title>girls TikTok</title>
-  <updated>2023-12-05T21:46:03+00:00</updated>
+  <updated>2023-12-05T22:51:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://majicapps.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from girls</subtitle>
-  <entry>
-    <id>https://tiktok.com/@girls/video/7308874953468824838</id>
-    <title>Im low key 97 years old - anyone else?! #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </title>
-    <updated>2023-12-04T22:47:46+00:00</updated>
-    <content>Im low key 97 years old - anyone else?! #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent </content>
-    <link href="https://tiktok.com/@girls/video/7308874953468824838" rel="alternate"/>
-    <published>2023-12-04T22:47:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@girls/video/7308928059204242693</id>
     <title>Time to ✨REHASH✨ 😂😂😂 #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #bff #bestie #gossip </title>
@@ -51,5 +43,13 @@
     <content>Sorry I was probably hangry 😂 #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #hangry #mood </content>
     <link href="https://tiktok.com/@girls/video/7309230139542457605" rel="alternate"/>
     <published>2023-12-05T21:46:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@girls/video/7309246943052549381</id>
+    <title>School lighting makes split ends so visible 😂😂👀 #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #splitends #girls </title>
+    <updated>2023-12-05T22:51:14+00:00</updated>
+    <content>School lighting makes split ends so visible 😂😂👀 #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #splitends #girls </content>
+    <link href="https://tiktok.com/@girls/video/7309246943052549381" rel="alternate"/>
+    <published>2023-12-05T22:51:14+00:00</published>
   </entry>
 </feed>
