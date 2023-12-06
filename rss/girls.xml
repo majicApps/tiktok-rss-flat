@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@girls</id>
   <title>girls TikTok</title>
-  <updated>2023-12-06T18:53:53+00:00</updated>
+  <updated>2023-12-06T21:01:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://majicapps.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from girls</subtitle>
-  <entry>
-    <id>https://tiktok.com/@girls/video/7309246943052549381</id>
-    <title>School lighting makes split ends so visible 😂😂👀 #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #splitends #girls </title>
-    <updated>2023-12-05T22:51:14+00:00</updated>
-    <content>School lighting makes split ends so visible 😂😂👀 #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #splitends #girls </content>
-    <link href="https://tiktok.com/@girls/video/7309246943052549381" rel="alternate"/>
-    <published>2023-12-05T22:51:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@girls/video/7309295014088051974</id>
     <title>How much is your christmas wish list worth?! 👀👀🎄 #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #christmas #christmaswishlist </title>
@@ -51,5 +43,13 @@
     <content>I literally told my friends all their presents already 😩🎄😂 #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #christmasgifts </content>
     <link href="https://tiktok.com/@girls/video/7309556865703185669" rel="alternate"/>
     <published>2023-12-06T18:53:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@girls/video/7309589729199115525</id>
+    <title>Such powerful words 👀👀✨ who else agrees?! #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #wisewords </title>
+    <updated>2023-12-06T21:01:26+00:00</updated>
+    <content>Such powerful words 👀👀✨ who else agrees?! #girls #relatable #relatablecontent #girlsbelike #funny #funnyvideos #girlcontent #girlproblems #viral #relatablecontent #relatable #xyzbca #females #femalecontent #wisewords </content>
+    <link href="https://tiktok.com/@girls/video/7309589729199115525" rel="alternate"/>
+    <published>2023-12-06T21:01:26+00:00</published>
   </entry>
 </feed>
